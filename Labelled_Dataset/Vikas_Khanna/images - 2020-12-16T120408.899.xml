@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vikas_Khanna</folder>
+	<filename>images - 2020-12-16T120408.899.jpg</filename>
+	<path>C:\Users\Anaconda\OneDrive\Desktop\FDI\images\Dataset\Dataset\Vikas_Khanna\images - 2020-12-16T120408.899.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vikas_Khanna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>11</ymin>
+			<xmax>117</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

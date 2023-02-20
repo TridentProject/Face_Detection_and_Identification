@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bill_Gates</folder>
+	<filename>bigates_005.jpg</filename>
+	<path>C:\Users\Anaconda\OneDrive\Desktop\FDI\images\Dataset\Dataset\Bill_Gates\bigates_005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bill_Gates</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>47</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

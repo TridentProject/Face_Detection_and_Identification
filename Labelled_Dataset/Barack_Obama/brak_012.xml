@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Barack_Obama</folder>
+	<filename>brak_012.jpg</filename>
+	<path>C:\Users\Anaconda\OneDrive\Desktop\FDI\images\Dataset\Dataset\Barack_Obama\brak_012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>274</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Barack_Obama</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>11</ymin>
+			<xmax>170</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vikas_Khanna</folder>
+	<filename>9k_ (4).jpg</filename>
+	<path>C:\Users\Anaconda\OneDrive\Desktop\FDI\images\Dataset\Dataset\Vikas_Khanna\9k_ (4).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>301</width>
+		<height>167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vikas_Khanna</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>1</ymin>
+			<xmax>208</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+</annotation>

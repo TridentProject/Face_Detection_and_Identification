@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Vikas_Khanna</folder>
+	<filename>ajaz-khan-and-vikas-khanna-attend-the-30th-annual-palm-springs-film-picture-id1078185324.jpg</filename>
+	<path>C:\Users\Anaconda\OneDrive\Desktop\FDI\images\Dataset\Dataset\Vikas_Khanna\ajaz-khan-and-vikas-khanna-attend-the-30th-annual-palm-springs-film-picture-id1078185324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>515</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vikas_Khanna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>29</ymin>
+			<xmax>400</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Virat_Kohli</folder>
+	<filename>9k_ (2).jpg</filename>
+	<path>C:\Users\Anaconda\OneDrive\Desktop\FDI\images\Dataset\Dataset\Virat_Kohli\9k_ (2).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>100</width>
+		<height>100</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Virat_Kohli</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>1</ymin>
+			<xmax>80</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>
